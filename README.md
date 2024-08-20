@@ -51,7 +51,7 @@ We welcome contributions from the community. If you have any suggestions or woul
 
 ## Contact
 
-If you have any questions or need more information, please contact the maintainers of this repository or join the [Matrix IBP public room] (https://matrix.to/#/!gkzFQtVOkOsPxZYOXr:matrix.org?via=matrix.org&via=matrix.parity.io&via=parity.io)
+If you have any questions or need more information, please contact the maintainers of this repository or join the [Matrix IBP public room](https://matrix.to/#/!gkzFQtVOkOsPxZYOXr:matrix.org?via=matrix.org&via=matrix.parity.io&via=parity.io)
 
 Thank you for being so interested in the Infrastructure Builders Program. Together, we can ensure the continued success and stability of the Kusama and Polkadot networks.
 
