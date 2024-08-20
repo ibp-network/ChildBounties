@@ -27,6 +27,14 @@ This repository contains the following files to provide detailed information and
 3. **Kusama Bounty 19 Services and IAAS Billing**: This file describes the services and billing established during the original Kusama Bounty 19.
    - [Kusama Bounty 19 Services and IAAS Billing](https://docs.google.com/spreadsheets/d/1rHTaViPc5AhXcpXRFdcLQah51U9SDcyT7O4UiwZdC6Y/edit?usp=sharing)
 
+**Bounty Curator Only**
+  
+4. **Kusama Bounty 19 Multisig logs**: This file holds historical multisig calls under Kusama Bounty 19.
+   - [Kusama Bounty 19 Multisig](https://docs.google.com/spreadsheets/d/1IqmVgK--iyaYVMIoYzgPsPbjjvuLeLGFOVrj2cR5-TU/edit?gid=1407787151#gid=1407787151)
+  
+5. **Polkadot Bounty 50 Multisig logs**: This file holds historical multisig calls under Polkadot Bounty 50.
+   - [Polkadot Bounty 50 Multisig](https://docs.google.com/spreadsheets/d/1YmA2eejudgpFTgvVNkGjJnTvH2GABwXR8t6IUl4z-sM/edit?gid=1226747958#gid=1226747958)
+
 ## Additional Information
 
 The repository is organized to provide easy access to all relevant documents and reports. Each file is regularly updated to reflect the latest information and developments related to the Kusama and Polkadot bounties.
