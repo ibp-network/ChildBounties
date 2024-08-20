@@ -35,6 +35,10 @@ This repository contains the following files to provide detailed information and
 5. **Polkadot Bounty 50 Multisig logs**: This file holds historical multisig calls under Polkadot Bounty 50.
    - [Polkadot Bounty 50 Multisig](https://docs.google.com/spreadsheets/d/1YmA2eejudgpFTgvVNkGjJnTvH2GABwXR8t6IUl4z-sM/edit?gid=1226747958#gid=1226747958)
 
+## IBP member application 
+
+If you are interested in contributing to the IBP, please submit your application through the following [IBP Application Form](https://forms.gle/pqgSc2QJ7XUznveu5)
+
 ## Additional Information
 
 The repository is organized to provide easy access to all relevant documents and reports. Each file is regularly updated to reflect the latest information and developments related to the Kusama and Polkadot bounties.
@@ -47,9 +51,9 @@ We welcome contributions from the community. If you have any suggestions or woul
 
 ## Contact
 
-For any queries or further information, please reach out to the maintainers of this repository.
+If you have any questions or need more information, please contact the maintainers of this repository or join the [Matrix IBP public room] (https://matrix.to/#/!gkzFQtVOkOsPxZYOXr:matrix.org?via=matrix.org&via=matrix.parity.io&via=parity.io)
 
-Thank you for your interest in the Infrastructure Builders Program. Together, we can ensure the continued success and stability of the Kusama and Polkadot networks.
+Thank you for being so interested in the Infrastructure Builders Program. Together, we can ensure the continued success and stability of the Kusama and Polkadot networks.
 
 ---
 
