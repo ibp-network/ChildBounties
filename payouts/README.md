@@ -4,8 +4,8 @@ This repo serves to document hours spent.
 Going forward members will no longer be reminded to provide hours, it's everyones own duty to document it in a timely matter.
 Administratve hours have to be documented latest after one month. Hours approved for projects have no time restriction.
 
-Latest the **20th** of every month you should create the PR and give memebrs 3 days time to review it if necessary. If no objections, merge the PR. 
-Coinstudio will need the proper documented and **merged** hours latest by the 23th.
+Latest the **26th** of every month you should create the PR and give memebrs 3 days time to review it if necessary. If no objections, merge the PR. 
+Coinstudio will need the proper documented and **merged** hours latest by the 29th.
 
 Documents older than 3 months should be moved to the archives directory.
 
