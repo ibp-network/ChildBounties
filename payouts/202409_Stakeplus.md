@@ -6,5 +6,5 @@
 | 09/21/2024 | 14 | Engineering | https://github.com/ibp-network/ibp-geodns | Spent ~14 hours coding, implementing, testing and monitoring IBP-Geodns module after completion of CheckWss and CheckSsl. 
 
 ## Total Hours:
-- Administration: 4
+- Administration: 3
 - Engineering: 14
