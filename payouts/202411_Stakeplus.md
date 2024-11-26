@@ -6,7 +6,7 @@
 | 11/22/2024 | 3 | Engineering | https://github.com/ibp-network/config | Creating structures to store billing info for automatic billing calculation
 | 11/24/2024 | 8 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor)
 | 11/25/2024 | 15 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor)
-| 11/25/2024 | 4 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor)
+| 11/26/2024 | 4 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor)
 
 ## Total Hours:
 - Administration: 1
