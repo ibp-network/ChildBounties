@@ -8,9 +8,10 @@
 | 11/24/2024 | 8 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor)
 | 11/25/2024 | 15 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor)
 | 11/26/2024 | 4 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor)
+| 11/29/2024 | 2 | Administration | https://github.com/ibp-network/config | Adding & Testing Acala & InvArch services (New Level 6 Service)
 
 ## Total Hours:
-- Administration: 1
+- Administration: 3
 - Engineering: 50
 
 Note: I neglected to request payment for the 09/27 hours on the Oct 1 -> Oct 31 pay period. I have added them here. 
