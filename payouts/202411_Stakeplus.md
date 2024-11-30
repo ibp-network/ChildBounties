@@ -14,4 +14,4 @@
 - Administration: 3
 - Engineering: 50
 
-Note: I neglected to request payment for the 09/27 hours on the Oct 1 -> Oct 31 pay period. I have added them here. 
+Note: I neglected to request payment for the 09/27 hours on the Oct 1 -> Oct 31 pay period (paid out on Nov 04). I have added them here for pay out on Dec 02.
