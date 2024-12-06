@@ -3,12 +3,8 @@
 |---|---|---|---|---|
 | 12/02/2024 | 3 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - Working on implementing new monitor package including results caching. 
 | 12/03/2024 | 16 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - Working on implementing new monitor package including results caching. 
-| 12/04/2024 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - Working on implementing new monitor package including results caching. 
-| 12//2024 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - 
-| 12//2024 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - 
-| 12//2024 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - 
-| 12//2024 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - 
-| 12//2024 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - 
+| 12/06/2024 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 (Code refactor) - Working on implementing new monitor package including results caching. 
+
 
 ## Total Hours:
 - Administration: 0
