@@ -8,6 +8,6 @@
 
 ## Total Hours:
 - Administration: 0
-- Engineering: 24
+- Engineering: 26
 
 
