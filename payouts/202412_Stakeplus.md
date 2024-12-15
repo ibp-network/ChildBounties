@@ -8,10 +8,10 @@
 | 12/09/2024 | 5  | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Working on raft package (dumped raft package for NATS)
 | 12/10/2024 | 12 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Continued porting from RAFT to NATS. Testing, Bug fixes, consolidating & refining code. 
 | 12/13/2024 | 2  | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Final touches
-| 12/14/2024 | 8  | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Final touches
+| 12/14/2024 | 10  | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Final touches
 
 ## Total Hours:
 - Administration: 0
-- Engineering: 79
+- Engineering: 81
 
 
