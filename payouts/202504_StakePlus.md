@@ -6,11 +6,13 @@
 | 04/21/2025 | 17 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Production servers going live, debugging, monitoring |
 | 04/22/2025 | 15 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Refactoring code to improve performance, Debugging production nodes |
 | 04/23/2025 | 6 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Debugging production nodes |
-|  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
-|  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
-|  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
-|  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
-|  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+| 04/24/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+| 04/25/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+| 04/26/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+| 04/27/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+| 04/28/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+| 04/29/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+| 04/30/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
 
 ## Total Hours:
 - Administration: 1
