@@ -5,7 +5,7 @@
 | 04/13/2025 | 10 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Deploying, Documenting, Testing new v2 production servers |
 | 04/21/2025 | 17 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Production servers going live, debugging, monitoring |
 | 04/22/2025 | 15 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Refactoring code to improve performance, Debugging production nodes |
-| 04/23/2025 | 4 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Debugging production nodes |
+| 04/23/2025 | 6 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Debugging production nodes |
 |  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
 |  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
 |  | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
@@ -14,5 +14,5 @@
 
 ## Total Hours:
 - Administration: 1
-- Engineering: 46
+- Engineering: 48
 
