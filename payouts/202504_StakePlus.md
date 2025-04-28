@@ -7,8 +7,7 @@
 | 04/22/2025 | 15 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Refactoring code to improve performance, Debugging production nodes |
 | 04/23/2025 | 6 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - Debugging production nodes |
 | 04/28/2025 | 2 | Administration | https://github.com/ibp-network/config/commits/main/ | IBP-Config - Adding XCavate support |
-| 04/29/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
-| 04/30/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v2 - |
+
 
 ## Total Hours:
 - Administration: 3
