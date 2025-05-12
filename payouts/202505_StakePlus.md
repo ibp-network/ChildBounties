@@ -2,8 +2,8 @@
 | Date | Hours | Hour type | Link | Description | 
 |---|---|---|---|---|
 | 05/04/2025 | 11 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Initial IBP-GeoDNS v3, Refactoring code to seperate components for pubsub communications |
-| 05/11/2025 | 17 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Design pubsub comms for billing, stats, usage |
-| 05//2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 -  |
+| 05/11/2025 | 19 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Design pubsub comms for billing, stats, usage |
+| 05/12/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Design pubsub comms for billing, stats, usage |
 | 05//2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 -  |
 | 05//2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 -  |
 | 05//2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 -  |
