@@ -8,7 +8,7 @@
 | 05/17/2025 | 6 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Codex workflow & Tests, Continue building pubsub comms for billing, stats, usage |
 | 05/23/2025 | 3 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Continuing to improve performance and separate components for billing, stats and usage integration |
 | 05/24/2025 | 17 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Continuing to improve performance and separate components for billing, stats and usage integration |
-| 05/25/2025 | 12 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging, Continuing to finalize usage implementation |
+| 05/25/2025 | 16 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging, Continuing to finalize usage implementation, IPv6 (Dual Stack) Implementation |
 | 05//2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 -  |
 | 05//2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 -  |
 | 05//2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 -  |
@@ -17,5 +17,5 @@
 
 ## Total Hours:
 - Administration: 0
-- Engineering: 74
+- Engineering: 78
 
