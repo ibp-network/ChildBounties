@@ -10,10 +10,10 @@
 | 05/24/2025 | 17 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Continuing to improve performance and separate components for billing, stats and usage integration |
 | 05/25/2025 | 16 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging, Continuing to finalize usage implementation, IPv6 (Dual Stack) Implementation |
 | 05/27/2025 |  4 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging Usage, Implementing daily usage processing |
-| 05/28/2025 | 14 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging Usage processing, Implementing NATS communication for data retrieval |
+| 05/28/2025 | 17 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging Usage processing, Implementing NATS communication for data retrieval |
 | 05/29/2025 |  0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Implementing NATS communication for data retrieval |
 
 ## Total Hours:
 - Administration: 0
-- Engineering: 96
+- Engineering: 99
 
