@@ -9,8 +9,8 @@
 | 07/26/2025 | 4 | Admin | IBP Service Management | ETH-RPC Deployment, Configuration for Revive, Member Management |
 | 07/26/2025 | 10 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.4 - Added EthRpc Check, Minor refactor of health checks, Added genesis check, IBDash Improvements |
 | 07/27/2025 | 22 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.4 - IBDash & IBPCollator Improvements, Implement Workers in Monitor |
-| 07/28/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.4 -  |
+| 07/28/2025 | 4 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.4 - Implement state root hash check, Debugging |
 
 ## Total Hours:
 - Administration: 6
-- Engineering: 55
+- Engineering: 59
