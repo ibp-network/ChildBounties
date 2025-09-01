@@ -1,3 +1,12 @@
+# Infrastructure Builders Program (IBP) Bounty Management Repository
+
+> **🆕 New: The IBP Portal is Live!**  
+> Access real-time IBP usage data, member services, and billing reports here:  
+> **[IBP Portal – Data Dashboard](https://ibdash.dotters.network/data)**  
+> * 01/Sep/2025 *
+
+---
+
 # Infrastructure Builders Program (IBP) Bounty Management repository
 
 Welcome to the Infrastructure Builders Program (IBP) Bounty repository. This repository is dedicated to documenting the detailed IBP reports and monthly child bounty details, along with the services provided under the Kusama Bounty 19 and Polkadot Bounty 50.
@@ -5,6 +14,14 @@ Welcome to the Infrastructure Builders Program (IBP) Bounty repository. This rep
 ## Overview
 
 The Infrastructure Builders Program (IBP) aims to enhance and maintain the infrastructure necessary for the robust functioning of the Kusama and Polkadot networks. This repository includes comprehensive details about the services rendered, financials, and status updates related to the Kusama Bounty 19 and Polkadot Bounty 50.
+
+With the ongoing development of the **IBP Portal**, all relevant data regarding IBP usage, member services, and detailed billing reports are now available in a centralized dashboard:
+
+🔗 **[IBP Portal – Data Dashboard](https://ibdash.dotters.network/data)**
+
+This portal provides a consolidated view of infrastructure performance, member activity, billing, and analytics. It serves as the **primary reference point** for up-to-date information on the IBP and its associated bounties.
+
+> **Note:** Existing GitHub repositories, including this one, will continue to be maintained and used as a **cross-check reference point** for verification and historical data.
 
 ## Kusama Bounty 19
 
