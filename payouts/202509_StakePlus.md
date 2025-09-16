@@ -1,12 +1,9 @@
-6# \<Stake Plus\>
+# \<Stake Plus\>
 | Date | Hours | Hour type | Link | Description | 
 |---|---|---|---|---|
-| 08/10/2025 | 1 | Administration | https://github.com/ibp-network/config | Minor member and rpc management |
-| 08/11/2025 | 5 | Engineering | https://github.com/ibp-network/ibp-geodns | Debugging, Fixes (Logic Issue), IBDash Improvements |
-| 08/11/2025 | 2 | Administration | https://github.com/ibp-network/config | Member management, Structure Refactor, Added Ancillary Services |
-| 08/12/2025 | 6 | Engineering | https://github.com/ibp-network/ibp-geodns | Debugging, Fixes (Logic Issue), IBDash Improvements, Ancillary Services |
+| 09/16/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns | Debugging, Splitting Code Base, Fixes & Changes to Uptime calculations |
 
 
 ## Total Hours:
-- Administration: 3
-- Engineering: 11
+- Administration: 0
+- Engineering: 0
