@@ -11,6 +11,7 @@
 | 11/03/2025 | 5 | Engineering | https://github.com/ibp-network/ibp-geodns-collator | Bug Fixes |
 | 11/20/2025 | 1 | Administration | https://github.com/ibp-network/ibp-config | Member, Services, and Endpoint Management |
 | 11/20/2025 | 2 | Engineering | https://github.com/ibp-network/ibp-geodns-collator | Bug Fixes |
+| 11/21/2025 | 0 | Engineering | https://github.com/ibp-network/ibp-geodns-collator | Bug Fixes |
 
 ## Total Hours:
 - Administration: 9
