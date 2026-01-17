@@ -2,11 +2,12 @@
 | Date | Hours | Hour type | Link | Description | 
 |---|---|---|---|---|
 | 01/12/2025 | 1 | Administration | N/A | Alignment & Future of the program  |
-| 01/16/2025 | 5 | Engineering | all repos | Testing / Debugging, Github Runner Monitoring, DNS Runner Monitoring, Routing Override |
+| 01/16/2025 | 5 | Engineering | all repos | Testing / Debugging, DNS, GH & Other ancillary services support, DNS routing override support  |
+| 01/17/2025 | 2 | Engineering | all repos | DNS, GH & Other ancillary services support, DNS routing override support, IBP Agent  |
 
 ## Total Hours:
 - Administration: 1
-- Engineering: 5
+- Engineering: 7
 
 ## Link Key:
  - conf: https://github.com/ibp-network/config
@@ -15,3 +16,4 @@
  - dash: https://github.com/ibp-network/ibp-geodns-dashboard
  - libs: https://github.com/ibp-network/ibp-geodns-libs
  - mon: https://github.com/ibp-network/ibp-geodns-monitor
+ - agnt: https://github.com/ibp-network/ibp-geodns-agent
