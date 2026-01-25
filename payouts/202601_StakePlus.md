@@ -12,7 +12,7 @@
 
 ## Total Hours:
 - Administration: 27
-- Engineering: 23
+- Engineering: 22
 
 ## Link Key:
  - conf: https://github.com/ibp-network/config
