@@ -7,11 +7,12 @@
 | 01/20/2025 | 4 | Administration | N/A | Alignment & Future of the program  |
 | 01/23/2025 | 7 | Administration | N/A | Alignment & Future of the program  |
 | 01/24/2025 | 15 | Administration | N/A | Alignment & Future of the program  |
-| 01/24/2025 | 2 | Engineering | all repos | DNS, GH & Other ancillary services support, DNS routing override support, IBP Agent  |
+| 01/24/2025 | 5 | Engineering | all repos | DNS, GH & Other ancillary services support, DNS routing override support, IBP Agent  |
+| 01/25/2025 | 0 | Engineering | all repos | DNS, GH & Other ancillary services support, DNS routing override support, IBP Agent  |
 
 ## Total Hours:
 - Administration: 27
-- Engineering: 19
+- Engineering: 23
 
 ## Link Key:
  - conf: https://github.com/ibp-network/config
