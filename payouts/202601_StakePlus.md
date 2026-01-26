@@ -9,10 +9,10 @@
 | 01/24/2025 | 15 | Administration | N/A | Alignment & Future of the program  |
 | 01/24/2025 | 5 | Engineering | all repos | DNS, GH & Other ancillary services support, DNS routing override support, IBP Agent  |
 | 01/25/2025 | 10 | Engineering | all repos | DNS, GH & Other ancillary services support, DNS routing override support, IBP Agent  |
-| 01/25/2025 | 6 | Administration | N/A | Alignment & Future of the program  |
+| 01/25/2025 | 12 | Administration | N/A | Alignment & Future of the program  |
 
 ## Total Hours:
-- Administration: 33
+- Administration: 39
 - Engineering: 32
 
 ## Link Key:
