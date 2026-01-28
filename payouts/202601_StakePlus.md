@@ -12,10 +12,11 @@
 | 01/25/2025 | 12 | Administration | N/A | Alignment & Future of the program  |
 | 01/26/2025 | 5 | Administration | N/A | Alignment & Future of the program  |
 | 01/26/2025 | 4 | Engineering | all repos | IBP Agent  |
+| 01/27/2025 | 3 | Engineering | all repos | Testing / Debugging  |
 
 ## Total Hours:
 - Administration: 44
-- Engineering: 36
+- Engineering: 39
 
 ## Link Key:
  - conf: https://github.com/ibp-network/config
